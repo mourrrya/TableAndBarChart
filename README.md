@@ -1,4 +1,4 @@
-# Getting started with Single page application with Data Table and Bar Chart Visualization
+# Getting started with the app
 
 > Node Version 20.11.0
 
