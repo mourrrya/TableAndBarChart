@@ -28,6 +28,7 @@ function App() {
     getCoreRowModel: getCoreRowModel(),
     getFilteredRowModel: getFilteredRowModel(),
     getSortedRowModel: getSortedRowModel(),
+
     getRowId: (row) => row.id.toString(),
 
     meta: {
